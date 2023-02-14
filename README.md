@@ -5,7 +5,7 @@ This repository contains the source code for the Satellite Crop Type Mapping Lea
 * Satellite Crop Mapping.ipynb: Jupyter notebook containing the full Satellite Crop Mapping tutorial with all associated code
 * Satellite Crop Mapping.html: Webpage version of the tutorial
 * Satellite Crop Mapping Appendix.ipynb: Jupyter notebook containing script to create sample survey dataset to use in tutorial demonstration
-* Satellite Crop Mappint Appendix.html: Webpage version of the appendix
+* Satellite Crop Mapping Appendix.html: Webpage version of the appendix
 * sample_survey_fields_geo.geojson: sample survey data to use for demonstration purposes in Satellite Crop Mapping.ipynb; created from Satellite Crop Mapping Appendix.ipynb
 
 Primary Author: [Natalie Ayers](https://github.com/natalie-ayers)
